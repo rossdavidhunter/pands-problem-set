@@ -5,4 +5,5 @@ i=int(input("Please enter a positive integer:  "))
 # calculate result based on entry, using / will result in number been displayed as floating point, so use of // will bring to whole number
 i= i * (i+1)//2
 
-print(i)
+# can add string text to output
+print("Output From Entry is",i)
