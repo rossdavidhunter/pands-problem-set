@@ -2,6 +2,7 @@
 # to add in days of week need datetime config
 from datetime import date
 
-Days = ('Mon','Tue','Wed','Thurs','Fri')
+# create variable with days of week
+Days = ('Mon','Tue','Wed','Thurs','Fri','Sat','Sun')
 
-print(days.[date.weekdays(date.today())].startswith('t'))
+print(Days[date.weekday(date.today())].startswith('T'))
