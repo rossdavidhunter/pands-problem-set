@@ -4,7 +4,7 @@ from datetime import datetime
 
 today = datetime.today()
 
-Final = today.strftime("%B %d, %Y")
+Final = today.strftime("%A, %d %b %Y at %H:%M%p")
 print(Final)
 
 
