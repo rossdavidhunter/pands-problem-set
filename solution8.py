@@ -1,3 +1,5 @@
+# use of import for date and time
+
 from datetime import datetime
 
 today = datetime.today()
