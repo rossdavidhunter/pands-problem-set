@@ -10,5 +10,6 @@ while x!= 1:
         x = x // 2
     else:
 # if odd multiply by 3 and add 1
+    
         x = 3 * x + 1
 print (x)
