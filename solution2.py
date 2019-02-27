@@ -1,12 +1,19 @@
-# solution to problem 2
-# to add in days of week need datetime config
-from datetime import date
+# Ross Hunter, 2019 Solution 2 begins with a T
 
-# create variable with days of week
-Days = ('Mon','Tue','Wed','Thurs','Fri','Sat','Sun')
+#Adapted from:https://www.pythonforbeginners.com/basics/python-datetime-time-examples
 
-if (Days[date.weekday(date.today())].startswith('T')):
+# to add in days of week need datetime config via import
+import datetime as dt
+
+# create variable with day of week using strftime and "%A"
+Day = (dt.date.today().strftime("%A"))
+
+# use of if, else and startswith
+if (Day.startswith('T')):
     print('Today begins with T')
 else:
     print('Today does not begin with T')
+
+# This prints out day also on line below
+print(Day)
   
