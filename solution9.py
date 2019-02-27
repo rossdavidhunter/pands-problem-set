@@ -1,5 +1,9 @@
 # Solution 9
 # use of open() to return file object in path below
-f = open("C:\\Users\\hunterd\\Desktop\\Moby Dick\\moby-dick.txt", "r")
+with open("C:\\Users\\hunterd\\Desktop\\Moby Dick\\moby-dick.txt", "r") as f:
 
-print(f.read())
+    lines = f.readlines()
+
+desired_lines = [x.strip() for x in lines[1::2]]
+
+print(desired_lines)
