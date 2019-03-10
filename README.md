@@ -29,6 +29,9 @@ This repository contains my solutions to pands problem set as part of programmin
 
 [Python Community and Tutorials](https://www.python.org/) 
 [GitHub](https://github.com/)
+[Stackoverflow](https://stackoverflow.com/)
+[Python Crash Course](http://ehmatthes.github.io/pcc/index.html)
+[Terrible at Maths](https://terribleatmaths.wordpress.com/)
 
 
 ## Link to some useful videos
