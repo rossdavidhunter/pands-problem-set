@@ -23,7 +23,7 @@ This repository contains my solutions to pands problem set as part of programmin
 ## Breakdown of each solution
 
 1. Solution1.py contains my solution to when a positive integer is entered the output is the sum of all numbers between one and       that number.
-    ![](Solution 1.PNG)
+![](Solution 1.PNG)
 2. Solution2.py outputs whether or not today is a day that begins with the letter T.
 3. Solution3.py prints all numbers between 1000 and 10000 that are divisable by 6 but not by 12.
 4. Solution4.py asks user to enter a postive integer and calculates the following, calculates next value by taking current value      and if it is even divide by 2 and if odd multiply by 3 and add 1. Program will end when current value is one.
