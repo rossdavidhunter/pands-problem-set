@@ -34,7 +34,7 @@ This repository contains my solutions to pands problem set as part of programmin
 9.
 10.
 
-
+![](Solution 1.PNG)
 
 ## References
 
