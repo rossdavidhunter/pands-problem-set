@@ -29,8 +29,23 @@ This repository contains my solutions to pands problem set as part of programmin
 
 
 ![](Solution1.PNG)
+
+
+
+
+
 2. Solution2.py outputs whether or not today is a day that begins with the letter T.
+
+
+
+
+
 ![](Solution2.PNG)
+
+
+
+
+
 3. Solution3.py prints all numbers between 1000 and 10000 that are divisable by 6 but not by 12.
 4. Solution4.py asks user to enter a postive integer and calculates the following, calculates next value by taking current value      and if it is even divide by 2 and if odd multiply by 3 and add 1. Program will end when current value is one.
 5. Solution5.py asks user to enter a positive integer and tells user whether or not number is a prime number.
