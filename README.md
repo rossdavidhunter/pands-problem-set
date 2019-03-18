@@ -8,7 +8,7 @@ This repository contains my solutions to pands problem set as part of programmin
 
 1. Sign into Github
 2. Navigate to the following page :(https://github.com/rossdavidhunter/pands-problem-set)
-3. On Top Right of in green click on Clone or Download button
+3. On Top Right of screen in green click on Clone or Download button
 4. Open in Desktop or download ZIP
 
 
@@ -22,16 +22,32 @@ This repository contains my solutions to pands problem set as part of programmin
 
 ## Breakdown of each solution
 
-1. Solution1.py contains my solution to when a positive integer is entered the output is the sum of all numbers between one and that number.
+1. Solution1.py contains my solution to when a positive integer is entered the output is the sum of all numbers between one and       that number.
+2. Solution2.py outputs whether or not today is a day that begins with the leeter T.
+3. Solution3.py prints all numbers between 1000 and 10000 that are divisable by 6 but not by 12.
+4. Solution4.py asks user to enter a postive integer and calculates the following, calculates next value by taking current value      and if it is even divide by 2 and if odd multiply by 3 and add 1. Program will end when current value is one.
+5. Solution5.py asks user to enter a positive integer and tells user whether or not number is a prime number.
+6. Solution6.py asks user to enter a sentence and outputs every second word
+7. 
+8. 
+9.
+
 
 
 ## References
 
-[Python Community and Tutorials](https://www.python.org/) 
+[Python Community and Tutorials](https://www.python.org/)
+[A Whirlwind Tour of Python](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf) 
 [GitHub](https://github.com/)
 [Stackoverflow](https://stackoverflow.com/)
 [Python Crash Course](http://ehmatthes.github.io/pcc/index.html)
 [Terrible at Maths](https://terribleatmaths.wordpress.com/)
+[The Coder’s Apprentice](http://spronck.net/pythonbook/pythonbook.pdf)
+[An Introduction to Version Control Using GitHub Desktop](https://programminghistorian.org/en/lessons/getting-started-with-github-desktop)
+[Anaconda](https://www.anaconda.com/)
+[cmder](http://cmder.net/)
+[Visual Studio Code](https://code.visualstudio.com/)
+
 
 
 ## Link to some useful videos

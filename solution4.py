@@ -5,6 +5,7 @@
 # Create and input
 x = int(input("Please enter a positive integer:  "))
 
+# while x is not equal to 1
 while x != 1:
 
     print(x)
