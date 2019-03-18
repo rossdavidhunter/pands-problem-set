@@ -22,16 +22,16 @@ This repository contains my solutions to pands problem set as part of programmin
 
 ## Breakdown of each solution
 
-1. Solution1.py contains my solution to when a positive integer is entered the output is the sum of all numbers between one and       that number.![](Solution1.PNG)
+1. Solution1.py contains my solution to when a positive integer is entered the output is the sum of all numbers between one and that number.![](Solution1.PNG)
 2. Solution2.py outputs whether or not today is a day that begins with the letter T.
 3. Solution3.py prints all numbers between 1000 and 10000 that are divisable by 6 but not by 12.
 4. Solution4.py asks user to enter a postive integer and calculates the following, calculates next value by taking current value      and if it is even divide by 2 and if odd multiply by 3 and add 1. Program will end when current value is one.
 5. Solution5.py asks user to enter a positive integer and tells user whether or not number is a prime number.
 6. Solution6.py asks user to enter a sentence and outputs every second word
 7. Solution7.py takes a positive floating point number as input and outputs approximation of square root.
-8. Solution8.py 
-9.
-10.
+8. Solution8.py outputs todays date and time as "Day, Month, Day, Year at hh:mm pm"
+9. Solution9.py reads a text file and outputs every second line. The file is read from command line.
+10. Solution10.py displays a plot of functions X, X and 2 in the range [0,4].
 
 
 ## References
