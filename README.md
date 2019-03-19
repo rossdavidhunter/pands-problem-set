@@ -46,12 +46,12 @@ This repository contains my solutions to pands problem set as part of programmin
 
 
 
-3. Solution3.py prints all numbers between 1000 and 10000 that are divisable by 6 but not by 12.
+3. Solution3.py and Solution3alt.py prints all numbers between 1000 and 10000 that are divisable by 6 but not by 12.
 
 
 
 
-![](Solution3.PNG)
+![](Solution3.PNG)                          ![](Solution3alt.PNG)                             
 
 
 
