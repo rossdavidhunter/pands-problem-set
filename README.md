@@ -121,6 +121,11 @@ This repository contains my solutions to pands problem set as part of programmin
 10. Solution10.py displays a plot of functions X, X and 2 in the range [0,4].
 
 
+
+
+
+![](Solution10.PNG)
+
 ## References
 
 [Python Community and Tutorials](https://www.python.org/)
