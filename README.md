@@ -118,7 +118,7 @@ This repository contains my solutions to pands problem set as part of programmin
 
 
 
-10. Solution10.py displays a plot of functions X, X and 2 in the range [0,4].
+10. Solution10.py displays a plot of functions X, X**2 and 2*X in the range [0,4].
 
 
 
