@@ -123,11 +123,7 @@ This repository contains my solutions to pands problem set as part of programmin
 
 
 
-
 ![](Solution10.PNG)
-
-
-
 
 
 
